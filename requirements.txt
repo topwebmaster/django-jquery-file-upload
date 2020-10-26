@@ -1,2 +1,2 @@
-django
-pillow
+django>=2.2.13,<2.0.99
+pillow>=7.1.0
